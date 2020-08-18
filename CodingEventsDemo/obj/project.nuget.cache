@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HEr/C8u8cx/WvjX9l7mRlyfN5i/8yu5fjq+UxJvKaE+pI4EHdwW8cHMWYlxyWYLSXNzmqq+ZBoJJybFM8F9o+A==",
+  "dgSpecHash": "0COYsg+osP9qP20N8v2tmi/uIsbi52TmFLK5rHjeRa+XK+E/azZFmnUQCVv172q6b9/fsLTGHvtCgdVQMx0oEw==",
   "success": true,
-  "projectFilePath": "/Users/lin/Documents/codecamp2020/csharp/CodingEventsDemo/CodingEventsDemo/CodingEventsDemo.csproj",
+  "projectFilePath": "/Users/lin/Documents/codecamp2020/csharp/CodingEvents/CodingEventsDemo/CodingEventsDemo.csproj",
   "expectedPackageFiles": [
     "/Users/lin/.nuget/packages/microsoft.aspnetcore.cryptography.internal/3.1.6/microsoft.aspnetcore.cryptography.internal.3.1.6.nupkg.sha512",
     "/Users/lin/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/3.1.6/microsoft.aspnetcore.cryptography.keyderivation.3.1.6.nupkg.sha512",

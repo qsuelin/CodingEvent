@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lin/Documents/codecamp2020/csharp/CodingEventsDemo/CodingEventsDemo/CodingEventsDemo.csproj": {}
+    "/Users/lin/Documents/codecamp2020/csharp/CodingEvents/CodingEventsDemo/CodingEventsDemo.csproj": {}
   },
   "projects": {
-    "/Users/lin/Documents/codecamp2020/csharp/CodingEventsDemo/CodingEventsDemo/CodingEventsDemo.csproj": {
+    "/Users/lin/Documents/codecamp2020/csharp/CodingEvents/CodingEventsDemo/CodingEventsDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lin/Documents/codecamp2020/csharp/CodingEventsDemo/CodingEventsDemo/CodingEventsDemo.csproj",
+        "projectUniqueName": "/Users/lin/Documents/codecamp2020/csharp/CodingEvents/CodingEventsDemo/CodingEventsDemo.csproj",
         "projectName": "CodingEventsDemo",
-        "projectPath": "/Users/lin/Documents/codecamp2020/csharp/CodingEventsDemo/CodingEventsDemo/CodingEventsDemo.csproj",
+        "projectPath": "/Users/lin/Documents/codecamp2020/csharp/CodingEvents/CodingEventsDemo/CodingEventsDemo.csproj",
         "packagesPath": "/Users/lin/.nuget/packages/",
-        "outputPath": "/Users/lin/Documents/codecamp2020/csharp/CodingEventsDemo/CodingEventsDemo/obj/",
+        "outputPath": "/Users/lin/Documents/codecamp2020/csharp/CodingEvents/CodingEventsDemo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lin/.nuget/NuGet/NuGet.Config"
