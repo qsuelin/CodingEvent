@@ -109,5 +109,6 @@ namespace CodingEventsDemo.Controllers
 
             return View(eventTags);
         }
+
     }
 }
